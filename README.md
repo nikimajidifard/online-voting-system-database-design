@@ -1,4 +1,4 @@
-# online-voting-system-database-design
+# Online Voting System Database Design
 Design and analysis of the online voting system.
 This is the final project of database design course.
 
