@@ -1,10 +1,3 @@
-<<<<<<< HEAD
-# online-voting-system-database-design
-Design and analysis of the online voting system.<br>
-This is the final project of database design course.<br>
-The overview of the system and entities are as follows:<br>
-<img src="Final_EER.jpg" style="max-width" width="350" title="diagram">
-=======
 # Online Voting System Database Design
 Design and analysis of the online voting system.
 This is the final project of database design course.
@@ -19,5 +12,4 @@ The ERD is availabe on [ERD.pdf](https://github.com/nikimajidifard/online-voting
 
 
 
->>>>>>> 1a82a286a2800d847153ab3a88b3aef1bdd7ace2
 
